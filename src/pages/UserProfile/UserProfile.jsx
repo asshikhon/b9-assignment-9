@@ -32,7 +32,7 @@ const UserProfile = () => {
 </Helmet>
 
         <div 
- className="card  w-[320px] md:w-[550px] bg-gradient-to-r from-purple-300  to-white text-gray-800 shadow-lg my-12 mx-auto rounded-xl">
+ className="card  w-[320px] md:w-[549px] bg-gradient-to-r from-purple-300  to-white text-gray-800 shadow-lg my-12 mx-auto rounded-xl">
             <div>
                 <div className="text-xl justify-end flex items-center text-black gap-2 pr-2 pt-2">
                     Edit Profile{" "}
