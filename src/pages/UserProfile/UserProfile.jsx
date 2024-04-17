@@ -65,11 +65,11 @@ const UserProfile = () => {
                 <div className="card-actions justify-end mt-3">
                     <div className="badge animate__animated animate__fadeInBottomLeft bg-purple-500 py-4 rounded-md px-4 text-white text-lg font-semibold">
                         {emailVerified ? (
-                            <p className="font-semibold">
+                            <p className="font-semibold text-green-300">
                                 Verified User
                             </p>
                         ) : (
-                            <p className="font-semibold">
+                            <p className="font-semibold ">
                                 Non-Verified User
                             </p>
                         )}
