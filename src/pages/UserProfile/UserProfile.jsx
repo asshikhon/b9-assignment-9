@@ -62,7 +62,7 @@ const UserProfile = () => {
                 <p className="font-medium animate__animated animate__fadeInBottomLeft break-words">
                 <span className="text-xl ">Photo URL : </span> {photoURL}
                 </p>
-                <div className="card-actions justify-end mt-4 ">
+                <div className="card-actions justify-end mt-3">
                     <div className="badge animate__animated animate__fadeInBottomLeft bg-purple-500 py-4 rounded-md px-4 text-white text-lg font-semibold">
                         {emailVerified ? (
                             <p className="font-semibold">
