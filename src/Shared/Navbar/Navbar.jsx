@@ -28,28 +28,28 @@ const Navbar = () => {
 
   const navLinks = (
     <>
-      <li className="">
-        <NavLink
-          to="/"
-          className={({ isActive }) =>
-            isActive
-              ? "text-lg font-semibold border border-[#23BE0A] rounded-lg text-[#23BE0A]"
-              : "text-lg text-[#131313cc] z-[1]"
-          }
-        >
-          Home
-        </NavLink>
-      </li>
+<li className="">
+  <NavLink
+    to="/"
+    className={({ isActive }) =>
+      isActive
+        ? "text-lg font-semibold border border-[#23BE0A] rounded-lg text-[#23BE0A] hover:bg-[#23BE0A] hover:text-white"
+        : "text-lg text-[#131313cc] z-[1] hover:bg-[#131313cc] hover:text-white"
+    }
+  >
+    Home
+  </NavLink>
+</li>
       {user && (
         <>
                   <li>
             <NavLink
               to="/sale"
               className={({ isActive }) =>
-                isActive
-                  ? "text-lg font-semibold border border-[#23BE0A] rounded-lg text-[#23BE0A]"
-                  : "text-lg text-[#131313cc]"
-              }
+              isActive
+              ? "text-lg font-semibold border border-[#23BE0A] rounded-lg text-[#23BE0A] hover:bg-[#23BE0A] hover:text-white"
+              : "text-lg text-[#131313cc] z-[1] hover:bg-[#131313cc] hover:text-white"
+          }
             >
               Sale
             </NavLink>
@@ -58,10 +58,10 @@ const Navbar = () => {
             <NavLink
               to="/rent"
               className={({ isActive }) =>
-                isActive
-                  ? "text-lg font-semibold border border-[#23BE0A] rounded-lg text-[#23BE0A]"
-                  : "text-lg text-[#131313cc]"
-              }
+              isActive
+              ? "text-lg font-semibold border border-[#23BE0A] rounded-lg text-[#23BE0A] hover:bg-[#23BE0A] hover:text-white"
+              : "text-lg text-[#131313cc] z-[1] hover:bg-[#131313cc] hover:text-white"
+          }
             >
               Rent
             </NavLink>
@@ -70,10 +70,10 @@ const Navbar = () => {
             <NavLink
               to="/update"
               className={({ isActive }) =>
-                isActive
-                  ? "text-lg font-bold border border-[#23BE0A] rounded-lg text-[#23BE0A]"
-                  : "text-lg text-[#131313cc]"
-              }
+              isActive
+              ? "text-lg font-semibold border border-[#23BE0A] rounded-lg text-[#23BE0A] hover:bg-[#23BE0A] hover:text-white"
+              : "text-lg text-[#131313cc] z-[1] hover:bg-[#131313cc] hover:text-white"
+          }
             >
               Update Profile
             </NavLink>
@@ -82,10 +82,10 @@ const Navbar = () => {
             <NavLink
               to="/user"
               className={({ isActive }) =>
-                isActive
-                  ? "text-lg font-semibold border border-[#23BE0A] rounded-lg text-[#23BE0A]"
-                  : "text-lg text-[#131313cc]"
-              }
+              isActive
+              ? "text-lg font-semibold border border-[#23BE0A] rounded-lg text-[#23BE0A] hover:bg-[#23BE0A] hover:text-white"
+              : "text-lg text-[#131313cc] z-[1] hover:bg-[#131313cc] hover:text-white"
+          }
             >
               User Profile
             </NavLink>
@@ -99,10 +99,10 @@ const Navbar = () => {
             <NavLink
               to="/contact"
               className={({ isActive }) =>
-                isActive
-                  ? "text-lg font-semibold border border-[#23BE0A] rounded-lg text-[#23BE0A]"
-                  : "text-lg text-[#131313cc]"
-              }
+              isActive
+              ? "text-lg font-semibold border border-[#23BE0A] rounded-lg text-[#23BE0A] hover:bg-[#23BE0A] hover:text-white"
+              : "text-lg text-[#131313cc] z-[1] hover:bg-[#131313cc] hover:text-white"
+          }
             >
               Contact Us
             </NavLink>
