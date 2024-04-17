@@ -49,8 +49,8 @@ const UserProfile = () => {
                 />
             </figure>
             <div className="card-body text-black md:ml-0">
-                <h2 className="text-3xl text-center pt-5 text-black">
-                    User Information
+                <h2 className="text-3xl text-center pt-5 font-semibold text-black">
+                    <i>User Information</i>
                 </h2>
                 <h2 className="card-title text-xl mt-6">
                     Name: {displayName}
