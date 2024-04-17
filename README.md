@@ -20,6 +20,19 @@ Discover your ideal home with HomeHaven! Browse through our meticulously curated
 
 **6**. **Social Media Integration:** Stay connected and updated on the latest news and listings through seamless integration with popular social media platforms.
 
+**7**.  **Responsive Design:** Our website is optimized for desktop, tablet, and mobile devices, ensuring a seamless browsing experience across all platforms.
+
+
+**8**. **User Authentication:** Implement user authentication to allow users to create accounts, log in, and save their favorite properties or preferences. 
+
+
+**9**. **Property Details:** Provide detailed information for each property listing, including images, descriptions, amenities, floor plans, and virtual tours where applicable.
+
+
+**10**. **Contact Form:** Include a contact form or contact information for users to reach out to your team with inquiries, questions, or feedback.
+ 
+
+
 
 ##  Npm Package Name List =
 
