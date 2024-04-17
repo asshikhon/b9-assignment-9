@@ -63,7 +63,7 @@ const Sale = () => {
 <i>{card.price}</i>
  </div>
 
- <div className="flex items-center justify-between text-lg font-semibold gap-8 mb-6 mt-4">
+ <div className="flex items-center justify-between text-lg font-semibold gap-8 mb-6 mt-3">
 <i>Area : {card.area}</i>
  </div>
 <Link to={`/details/${card.id}`} className="  animate__animated animate__bounceInLeft animate__delay-1s">
