@@ -66,7 +66,7 @@ const Sale = () => {
  <div className="flex items-center justify-between text-lg font-semibold gap-8 mb-6 mt-3">
 <i>Area : {card.area}</i>
  </div>
-<Link to={`/details/${card.id}`} className="  animate__animated animate__bounceInLeft animate__delay-1s">
+<Link to={`/details/${card.id}`} className="animate__animated animate__bounceInLeft animate__delay-1s">
 <button className="btn w-full bg-[#23BE0A] border-0btn-primary text-white font-bold text-lg">{card.view_property_button}</button>
    </Link>
 </div>

@@ -34,7 +34,7 @@ const ContactUs = () => {
       message: ''
     });
     Swal.fire({
-      position: window.innerWidth <= 768 ? "top" : "top",
+      position: window.innerWidth <= 768 ? "top" : "top right",
       width: "auto", 
       padding: "1rem", 
       showCloseButton: false,
