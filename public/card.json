@@ -1,0 +1,151 @@
+[
+    {
+      "image": "https://i.ibb.co/56dRy42/singlehouse.jpg",
+      "estate_title": "Cozy Family Home",
+      "id": 1,
+      "segment_name": "Single-family homes",
+      "description": "This cozy family home is a perfect retreat for those seeking comfort and tranquility. Situated in a suburban neighborhood in Anytown, this charming residence offers ample space for a growing family. With three bedrooms, two bathrooms, and a spacious backyard, it provides the ideal setting for creating lasting memories. Built in 1995, this home boasts timeless architecture and modern amenities. The two-car garage ensures convenient parking, while the proximity to the Anytown School District adds to its appeal for families with children. Whether it's enjoying family dinners in the spacious kitchen, relaxing in the backyard oasis, or simply unwinding in the cozy living room, this home offers a warm and inviting atmosphere for its occupants.",
+      "price": "$350,000",
+      "status": "sale",
+      "area": "2,500 sq ft",
+      "location": "Suburban neighborhood, Anytown",
+      "facilities": ["3 bedrooms", "2 bathrooms", "backyard"],
+      "other_information": {
+        "year_built": "1995",
+        "garage_spaces": 2,
+        "school_district": "Anytown School District"
+      },
+      "view_property_button": "View Property"
+    },
+    {
+      "image": "https://i.ibb.co/gTQbd9d/apart.jpg",
+      "estate_title": "Downtown Apartment Living",
+      "id": 2,
+      "segment_name": "Apartments",
+      "description": "Experience the epitome of urban living in this downtown apartment. Located in the heart of Metropolis, this modern residence offers convenience and sophistication. With an area of 1,000 sq ft, this apartment features a contemporary design and stunning city views from its balcony. The 15th-floor location provides privacy and serenity amidst the bustling cityscape. Residents can enjoy access to a fully equipped gym and 24/7 security for peace of mind. The pet-friendly policy allows furry companions to join in on the urban adventure. Whether it's sipping morning coffee while overlooking the city skyline or exploring the vibrant streets below, this apartment offers a dynamic lifestyle for its residents.",
+      "price": "$2,000/month",
+      "status": "rent",
+      "area": "1,000 sq ft",
+      "location": "City Center, Metropolis",
+      "facilities": ["Balcony with city view", "Gym", "24/7 security"],
+      "other_information": {
+        "floor_level": "15th floor",
+        "pet_policy": "Pets allowed with additional deposit"
+      },
+      "view_property_button": "View Property"
+    },
+    {
+      "image": "https://i.ibb.co/K9RLd2B/Student-housing.jpg",
+      "estate_title": "Student Housing Complex",
+      "id": 3,
+      "segment_name": "Student housing",
+      "description": "Designed with the needs of students in mind, this housing complex offers a comfortable and conducive living environment. Located on the campus of College Town University, this purpose-built complex provides convenience and community for its residents. With fully furnished units, study lounges, and on-site laundry facilities, students can focus on their academic pursuits without worrying about household chores. The variety of room types, including single, double, and shared rooms, cater to different preferences and budgets. The proximity to campus ensures easy access to classes and campus activities, enhancing the overall college experience. Whether it's studying late at night in the quiet study lounges or socializing with fellow students in the common areas, this housing complex fosters a supportive and enriching community for its residents.",
+      "price": "$800/month per room",
+      "status": "rent",
+      "area": "1,200 sq ft",
+      "location": "University Campus, College Town",
+      "facilities": ["Fully furnished", "Study lounges", "Laundry facilities"],
+      "other_information": {
+        "room_types": ["Single", "Double", "Shared"]
+      },
+      "view_property_button": "View Property"
+    },
+    {
+      "image": "https://i.ibb.co/2KtYckk/Senior-living-communities.jpg",
+      "estate_title": "Senior Living Community",
+      "id": 4,
+      "segment_name": "Senior living communities",
+      "description": "Experience retirement living at its finest in this senior living community nestled in the serene surroundings of Retirement Town. Designed for adults aged 55 and above, this community offers a fulfilling and active lifestyle for its residents. With an array of amenities, including on-site medical care, a fitness center, and community events, residents can enjoy a vibrant social life while maintaining their health and well-being. The spacious residences feature modern conveniences and are tailored to the needs of older adults. Meals, housekeeping, and transportation services are included, providing a hassle-free living experience. Whether it's participating in fitness classes, social gatherings, or exploring the beautiful outdoor spaces, this community offers endless opportunities for relaxation and recreation.",
+      "price": "$3,500/month",
+      "status": "rent",
+      "area": "1,800 sq ft",
+      "location": "Serenity Valley, Retirement Town",
+      "facilities": ["On-site medical care", "Fitness center", "Community events"],
+      "other_information": {
+        "age_requirement": "55+",
+        "amenities_included": ["Meals", "Housekeeping", "Transportation"]
+      },
+      "view_property_button": "View Property"
+    },
+    {
+      "image": "https://i.ibb.co/zXg1Szd/Vacation-rentals.jpg",
+      "estate_title": "Beachfront Vacation Rental",
+      "id": 5,
+      "segment_name": "Vacation rentals",
+      "description": "Escape to paradise in this luxurious beachfront vacation home located in Coastal Paradise. With stunning ocean views and direct access to a private beach, this rental offers the ultimate getaway experience. The spacious 2,000 sq ft home features upscale amenities, including an outdoor dining area and a hot tub overlooking the sea. Whether it's soaking up the sun on the sandy shores, indulging in water sports, or simply relaxing with a book on the deck, this vacation rental provides endless opportunities for rest and rejuvenation. With year-round availability and a minimum stay of three nights, it's the perfect destination for beach lovers seeking a memorable retreat.",
+      "price": "$500/night",
+      "status": "rent",
+      "area": "2,000 sq ft",
+      "location": "Seaside Retreat, Coastal Paradise",
+      "facilities": ["Private beach access", "Outdoor dining area", "Hot tub"],
+      "other_information": {
+        "availability": "Year-round",
+        "minimum_stay": "3 nights"
+      },
+      "view_property_button": "View Property"
+    },{
+        "image": "https://i.ibb.co/M751SW8/Vacation-rentals2.jpg",
+        "estate_title": "Lakefront Cabin Retreat",
+        "id": 6,
+        "segment_name": "Vacation rentals",
+        "description": "Experience the tranquility of lakeside living in this charming cabin retreat nestled along the shores of Crystal Lake. Surrounded by towering pine trees and pristine nature, this cozy cabin offers a peaceful escape from the hustle and bustle of city life. With two bedrooms, a rustic interior, and a stone fireplace, it exudes warmth and comfort. Spend your days fishing off the private dock, hiking scenic trails, or simply lounging on the spacious deck overlooking the water. Whether it's a romantic getaway or a family vacation, this lakefront cabin provides an idyllic retreat for nature lovers and outdoor enthusiasts alike.",
+        "price": "$300/night",
+        "status": "rent",
+        "area": "1,200 sq ft",
+        "location": "Crystal Lake, Wilderness Reserve",
+        "facilities": ["Lakefront views", "Private dock", "Stone fireplace"],
+        "other_information": {
+          "activities": ["Fishing", "Hiking", "Boating"]
+        },
+        "view_property_button": "View Property"
+      },
+      {
+        "image": "https://i.ibb.co/TrWbhGG/Townhouses.jpg",
+        "estate_title": "Modern Urban Townhouse",
+        "id": 7,
+        "segment_name": "Townhouses",
+        "description": "Discover contemporary urban living in this sleek and stylish townhouse located in the vibrant downtown district. With its modern design, open-concept layout, and high-end finishes, this townhouse offers the perfect blend of comfort and sophistication. The three-story residence features floor-to-ceiling windows, a gourmet kitchen with stainless steel appliances, and a rooftop terrace with panoramic city views. Ideal for professionals and urban dwellers, it provides easy access to trendy restaurants, shops, and cultural attractions. Whether it's hosting rooftop gatherings, enjoying al fresco dining, or exploring the bustling city streets, this townhouse epitomizes modern urban living at its finest.",
+        "price": "$750,000",
+        "status": "sale",
+        "area": "2,000 sq ft",
+        "location": "Downtown District, Metropolis",
+        "facilities": ["Rooftop terrace", "Modern kitchen", "Floor-to-ceiling windows"],
+        "other_information": {
+          "year_built": "2018",
+          "nearby_attractions": ["Restaurants", "Shops", "Cultural attractions"]
+        },
+        "view_property_button": "View Property"
+      },
+      {
+        "image": "https://i.ibb.co/Nn8kLkk/Apartments2.jpg",
+        "estate_title": "Luxury Condo with Panoramic Views",
+        "id": 8,
+        "segment_name": "Apartments",
+        "description": "Live in luxury in this stunning condo boasting panoramic views of the city skyline. Situated in a prestigious high-rise building in the heart of the financial district, this condo offers unparalleled elegance and convenience. The expansive floor-to-ceiling windows flood the space with natural light and provide sweeping vistas of the city below. With two bedrooms, a gourmet kitchen, and a spacious living area, this condo is perfect for both relaxing and entertaining. Residents can also enjoy access to building amenities such as a fitness center, pool, and concierge services. Experience urban living at its finest in this luxurious condo with breathtaking views.",
+        "price": "$1,200,000",
+        "status": "sale",
+        "area": "1,500 sq ft",
+        "location": "Financial District, Metropolis",
+        "facilities": ["Panoramic city views", "Gourmet kitchen", "Building amenities"],
+        "other_information": {
+          "building_features": ["Fitness center", "Pool", "Concierge services"]
+        },
+        "view_property_button": "View Property"
+      },
+      {
+        "image": "https://i.ibb.co/sjV55jm/Single-family-homes.jpg",
+        "estate_title": "Family-Friendly Suburban Home",
+        "id": 9,
+        "segment_name": "Single-family homes",
+        "description": "Embrace suburban living in this spacious family home located in a peaceful residential neighborhood. With four bedrooms, three bathrooms, and a large backyard, this home offers plenty of space for the whole family to spread out and relax. The open-plan layout features a gourmet kitchen, a cozy living room with a fireplace, and a sunroom overlooking the garden. Ideal for families with children, it's close to top-rated schools, parks, and recreational facilities. Spend your weekends exploring the nearby trails, hosting barbecues in the backyard, or simply unwinding in the comfort of your own home. Experience the joys of suburban living in this inviting family-friendly home.",
+        "price": "$500,000",
+        "status": "sale",
+        "area": "2,800 sq ft",
+        "location": "Peaceful Neighborhood, Suburbia",
+        "facilities": ["Four bedrooms", "Large backyard", "Gourmet kitchen"],
+        "other_information": {
+          "nearby_amenities": ["Schools", "Parks", "Recreational facilities"]
+        },
+        "view_property_button": "View Property"
+      }
+    ]
