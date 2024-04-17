@@ -1,4 +1,4 @@
-import { SiNamecheap } from "react-icons/si";
+
 import logoHomeHaven1 from "../../../src/assets/images/HomeHaven.svg"
 import AOS from 'aos';
 import 'aos/dist/aos.css'; 
