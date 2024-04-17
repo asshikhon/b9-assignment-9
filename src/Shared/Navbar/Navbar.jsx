@@ -1,6 +1,6 @@
 import { Link, NavLink } from "react-router-dom";
 import Swal from 'sweetalert2'
-
+import logoHomeHaven from "../../../src/assets/images/HomeHaven.svg"
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useContext } from "react";
@@ -143,9 +143,13 @@ const Navbar = () => {
             {navLinks}
           </ul>
         </div>
-        <a className="btn btn-ghost text-xl md:text-3xl lg:text-4xl" style={{ background: 'linear-gradient(to right, green, blue)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>
+<div className="flex items-center">
+<img className="h-[40px] lg:h-[60px] w-[30px] lg:w-[60px]" src={logoHomeHaven} alt="" />
+
+<a className="btn btn-ghost text-xl md:text-3xl lg:text-4xl" style={{ background: 'linear-gradient(to right, green, blue)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>
       HomeHaven
     </a>
+</div>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">{navLinks}</ul>
